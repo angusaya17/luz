@@ -1,0 +1,35 @@
+  .traffic-light
+{
+  width:50px;
+  height:75px;
+  background-color:gray;
+}
+
+.luz
+{
+  width:100px;
+  height:100px;
+  border:1px solid;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 50%;
+}
+
+.apagada {
+    background-color: gray;
+}
+
+.rojo {
+    background-color: red;
+    box-shadow: 0 0 25px red;
+}
+
+.amarillo {
+    background-color: yellow;
+    box-shadow: 0 0 25px yellow;
+}
+
+.verde {
+    background-color: green;
+    box-shadow: 0 0 25px green;
+}
